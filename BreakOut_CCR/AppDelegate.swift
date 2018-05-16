@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  BreakOut_CCR
+//  BREAKOUT
 //
-//  Created by Benjamin on 5/16/18.
-//  Copyright © 2018 jhhs. All rights reserved.
+//  Created by acardi0049 on 5/2/18.
+//  Copyright © 2018 acardi0049. All rights reserved.
 //
 
 import UIKit
